@@ -1,0 +1,5 @@
+data:
+  env: config-eureka-uat
+  user:
+    username: eureka-client-user
+    password: 123456
